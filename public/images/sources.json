@@ -1,0 +1,167 @@
+{
+  "destination": "venice",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace before production. Do not use Italian Riviera leftovers.",
+  "images": [
+    {
+      "file": "hero.jpg",
+      "wikimedia": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
+      "subject": "Grand Canal / Rialto panorama",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "hero-home.jpg",
+      "wikimedia": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
+      "subject": "Grand Canal / Rialto panorama",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "og-default.jpg",
+      "wikimedia": "Piazza San Marco (Venice).jpg",
+      "subject": "St Mark's Square",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "historic.jpg",
+      "wikimedia": "Panorama Piazza San Marco and Venice on Easter 2013.jpg",
+      "subject": "Piazza San Marco panorama",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "st-marks.jpg",
+      "wikimedia": "San Marco cathedral in Venice.JPG",
+      "subject": "St Mark's Basilica",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "walking.jpg",
+      "wikimedia": "Venice awakes (20618763815).jpg",
+      "subject": "Gondolas at sunrise",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "cruise-port.jpg",
+      "wikimedia": "Venice awakes (20618763815).jpg",
+      "subject": "Placeholder port atmosphere \u2014 replace with terminal photo",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "rialto.jpg",
+      "wikimedia": "Panorama of Canal Grande and Ponte di Rialto, Venice - September 2017.jpg",
+      "subject": "Rialto / Grand Canal",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "grand-canal.jpg",
+      "wikimedia": "Canal Grande Chiesa della Salute e Dogana dal ponte dell Accademia.jpg",
+      "subject": "Grand Canal toward Salute",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "burano.jpg",
+      "wikimedia": "Houses of Burano painted with complementary colours.jpg",
+      "subject": "Burano houses",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "coastal.jpg",
+      "wikimedia": "Houses of Burano painted with complementary colours.jpg",
+      "subject": "Lagoon / Burano colour",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "coast.jpg",
+      "wikimedia": "Houses of Burano painted with complementary colours.jpg",
+      "subject": "Lagoon / Burano colour",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "murano.jpg",
+      "wikimedia": "Murano_Venice.jpg",
+      "subject": "Murano",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "gondola.jpg",
+      "wikimedia": "Gondola_in_Venice.jpg",
+      "subject": "Gondola",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "wikimedia": "Venice awakes (20618763815).jpg",
+      "subject": "Temporary atmospheric stand-in for food \u2014 replace",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "food.jpg",
+      "wikimedia": "Venice awakes (20618763815).jpg",
+      "subject": "Temporary atmospheric stand-in for food \u2014 replace",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "wine.jpg",
+      "wikimedia": "Venice awakes (20618763815).jpg",
+      "subject": "Temporary atmospheric stand-in \u2014 replace",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "photography.jpg",
+      "wikimedia": "Canal Grande Chiesa della Salute e Dogana dal ponte dell Accademia.jpg",
+      "subject": "Grand Canal photography",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "viewpoints.jpg",
+      "wikimedia": "Canal Grande Chiesa della Salute e Dogana dal ponte dell Accademia.jpg",
+      "subject": "Grand Canal viewpoint",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "private.jpg",
+      "wikimedia": "Gondola_in_Venice.jpg",
+      "subject": "Private gondola",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "family.jpg",
+      "wikimedia": "Houses of Burano painted with complementary colours.jpg",
+      "subject": "Family-friendly Burano colour",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "compare.jpg",
+      "wikimedia": "Piazza San Marco (Venice).jpg",
+      "subject": "Compare options visual",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    },
+    {
+      "file": "nature.jpg",
+      "wikimedia": "Houses of Burano painted with complementary colours.jpg",
+      "subject": "Lagoon islands",
+      "source": "Wikimedia Commons",
+      "note": "Temporary localhost stand-in \u2014 replace with licensed production assets before launch"
+    }
+  ]
+}

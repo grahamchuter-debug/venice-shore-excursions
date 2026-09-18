@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.197Z",
+  "wave": "wave-1c",
+  "port": "venice",
+  "destSlug": "venice",
+  "displayName": "Venice",
+  "portIdentityNote": "Lagoon/terminal logistics volatile — never invent terminal assignment",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 76,
+    "2027": 181,
+    "2028_discovery": 140,
+    "2028_published": 18,
+    "public_total": 275
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 18 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 122 restricted/unvalidated",
+    "validatedCount": 18,
+    "tier2AzamaraVenice": 8
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 76,
+      "arrival": 56,
+      "departure": 48,
+      "both": 43,
+      "neither": 15,
+      "pctBoth": 56.6
+    },
+    "2027": {
+      "total": 181,
+      "arrival": 121,
+      "departure": 98,
+      "both": 79,
+      "neither": 41,
+      "pctBoth": 43.6
+    },
+    "2028": {
+      "total": 18,
+      "arrival": 18,
+      "departure": 3,
+      "both": 3,
+      "neither": 0,
+      "pctBoth": 16.7
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "replaced empty array with json import"
+  },
+  "placeholderPurged": true
+}

@@ -1,0 +1,2 @@
+# Workers Assets: no host redirects here.
+# Configure www → apex in Cloudflare Redirect Rules after attaching the custom domain.

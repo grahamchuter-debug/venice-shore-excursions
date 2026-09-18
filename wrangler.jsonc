@@ -1,0 +1,11 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  // WORKERS STATIC ASSETS — Venice Shore Excursions (ADR-0001)
+  // Custom Domain: attach apex in Cloudflare dashboard. www → apex via Redirect Rules.
+  "name": "venice-shore-excursions",
+  "compatibility_date": "2025-04-01",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}
